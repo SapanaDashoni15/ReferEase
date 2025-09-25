@@ -8,13 +8,13 @@ Applying to jobs as a fresher is often a tiring and never-ending process. While 
 
 In such scenarios, getting a referral becomes crucial. However, the process of reaching out for referrals is not simple:
 
-You need to connect with 30+ professionals to maximize your chances.
+-You need to connect with atleast 30+ professionals to maximize your chances.
 
-Many people on LinkedIn are inactive.
+-Many people on LinkedIn are inactive.
 
-Some have exhausted their referral limits.
+-Some have exhausted their referral limits.
 
-Others may simply ignore your request due to their busy schedules.
+-Others may simply ignore your request due to their busy schedules.
 
 This makes it important to send referral requests to as many employees as possible—which is a repetitive and time-consuming task.
 
@@ -22,13 +22,13 @@ This makes it important to send referral requests to as many employees as possib
 
 To overcome this problem, I built ReferEase, an automation tool that:
 
-Sends customized referral requests to potential employees.
+- Sends customized referral requests to potential employees.
 
-Works with both Gmail and LinkedIn.
+- Works with both Gmail and LinkedIn.
 
-Saves time by automating repetitive manual work.
+- Saves time by automating repetitive manual work.
 
-Increases the probability of landing a referral by targeting multiple employees efficiently.
+- Increases the probability of landing a referral by targeting multiple employees efficiently.
 
 ### Features
 
