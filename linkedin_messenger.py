@@ -31,7 +31,7 @@ def send_referral_messages(company, referral_message):
             time.sleep(5)
 
             # Click on Message button
-            message_button = driver.find_element(By.CLASS_NAME, "message-anywhere-button")
+            message_button = driver.find_element(By.CLASS_NAME, "artdeco-button__text")
             message_button.click()
             time.sleep(3)
 
